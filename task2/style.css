@@ -84,7 +84,7 @@ body {
 .section_1_content {
     margin-left: 145px;
     margin-right: 145px;
-    padding-bottom: 40px;
+    padding-bottom: 70px;
     padding-top: 165px;
     display: grid;
     grid-template-columns:  repeat(auto-fit, minmax(450px, 1fr));
@@ -139,7 +139,7 @@ body {
 .section_2_content {
     margin-left: 135px;
     margin-right: 41px;
-    padding-bottom: 40px;
+    padding-bottom: 65px;
     padding-top: 60px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
@@ -191,7 +191,7 @@ body {
 .section_3_content {
     margin-left: 145px;
     margin-right: 145px;
-    padding-bottom: 40px;
+    padding-bottom: 70px;
     padding-top: 70px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
